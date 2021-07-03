@@ -1,0 +1,12 @@
+body {
+  background: #212529;
+  color: #fff;
+}
+.nav-link{
+color: #fff;
+transition: all 0.3s ease;
+}
+.nav-link:hover{
+color: #ccc;
+transition: all 0.3s ease;
+}
